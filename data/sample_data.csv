@@ -1,0 +1,24 @@
+provider_acc_id,provider_id,services,registration_group,support_type,core_support_type,unit_price
+9711,11201,Individual Skill Development And Training Including Public Transport Training,Development Of Daily Living And Life Skills,Core Supports,Daily Living,80 AUD
+10286,11202,Individual Skill Development And Training Including Public Transport Training,Development Of Daily Living And Life Skills,Core Supports,Daily Living,80 AUD
+9711,11203,Individual Skill Development And Training Including Public Transport Training,Development Of Daily Living And Life Skills,Core Supports,Daily Living,80 AUD
+9721,11204,Interpreting And Translating,Interpreting And Translation,Capacity Building Supports,Language and Communication Support,70 AUD
+9711,11205,"Assistance With Decision Making, Daily Planning and Budgeting",Assistance In Coordinating Or Managing Life Stages,Capacity Building Supports,Life Skills and Decision-Making Assistance,90 AUD
+9749,11206,Assistance With Self-Care - Night-Time Sleepover,Daily Personal Activities (Assist Personal Activities),Core Supports,Personal Activities,120 AUD
+9721,11207,Assistance With Self-Care - Night-Time Sleepover,Daily Personal Activities (Assist Personal Activities),Core Supports,Personal Activities,120 AUD
+9721,11208,Assistance With Self-Care - Night-Time Sleepover,Daily Personal Activities (Assist Personal Activities),Core Supports,Personal Activities,120 AUD
+9721,11209,Assistance With Self-Care - Standard - Active Overnight,Daily Personal Activities (Assist Personal Activities),Core Supports,Personal Activities,150 AUD
+9711,11210,Assistance With Self-Care - Standard - Active Overnight,Daily Personal Activities (Assist Personal Activities),Core Supports,Personal Activities,150 AUD
+10284,11211,Assistance With Self-Care - Night-Time Sleepover,Daily Personal Activities (Assist Personal Activities),Core Supports,Personal Activities,12 AUD
+33,11212,Assistance With Self-Care - Night-Time Sleepover,Daily Personal Activities (Assist Personal Activities),Core Supports,Personal Activities,120 AUD
+9749,11213,Assistance With Self-Care - Night-Time Sleepover,Daily Personal Activities (Assist Personal Activities),Core Supports,Personal Activities,120 AUD
+9721,11214,Assistance With Self-Care - Night-Time Sleepover,Daily Personal Activities (Assist Personal Activities),Core Supports,Personal Activities,120 AUD
+9981,11215,Assistance With Self-Care - Night-Time Sleepover,Daily Personal Activities (Assist Personal Activities),Core Supports,Personal Activities,120 AUD
+9721,11216,Assistance With Self-Care - Night-Time Sleepover,Daily Personal Activities (Assist Personal Activities),Core Supports,Personal Activities,120 AUD
+9711,11217,CB and Training in Plan and Financial Management by a Plan Manager,Management Of Funding For Supports In Participants,Capacity Building Supports,Plan Management and Financial Training,100 AUD
+9721,11218,Transport,Assistance With Travel/Transport Arrangements,Core Supports,Transport,50 AUD
+9721,11219,Transport,Assistance With Travel/Transport Arrangements,Core Supports,Transport,50 AUD
+9711,11220,Transport,Assistance With Travel/Transport Arrangements,Core Supports,Transport,50 AUD
+10284,11221,Specialised Transport To School/Educational Facility/Employment/Community,Assistance With Travel/Transport Arrangements,Core Supports,Transport,60 50 AUD
+9822,11222,Transport,Assistance With Travel/Transport Arrangements,Core Supports,Transport,50 AUD
+9721,11223,Transport,Assistance With Travel/Transport Arrangements,Core Supports,Transport,50 AUD
